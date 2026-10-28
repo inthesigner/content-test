@@ -26,6 +26,7 @@ def generate_index(folder):
             "subtitle": metadata.get("subtitle", ""),
             "author": metadata.get("author", ""),
             "status": metadata.get("status", ""),
+            "year": metadata.get("year", ""),
             "file": str(path)
         })
 
