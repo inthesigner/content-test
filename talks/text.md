@@ -9,9 +9,7 @@ Year: 2026
 # Demystifying VoIP: SIP, RTP, and Server Architecture.
 
 VoIP protocols and VoIP architecture represent advancements in calling technology that drastically changes how companies communicate. The technology allows companies to conduct phone calls over the internet without the need to purchase expensive equipment.  
-
 Virtual calling operates through a set of VoIP protocols or rules that establish how devices initiate call sessions over the internet. These protocols determine user location, determine user availability for a call, create the session and manage the session for the duration of the call.  
-
 While the technology is somewhat new and still evolving, there are many reasons to switch. VoIP networking offers companies of all sizes the chance to get enterprise-grade phone features at a reasonable cost. VoIP phone features such as IVR, ACD queues, follow-me, conferencing and music on hold are charged as premium features with traditional phone services. If you have been considering virtual calling for your business, here is your primer on what it entails. Here, we’ve eliminated the confusing VoIP network diagrams and terminology that turn people away. Instead, we give a simple definition of VoIP protocols, network architecture and how it all works to provide a feature-rich communication experience. 
 
 ## What is VoIP?
