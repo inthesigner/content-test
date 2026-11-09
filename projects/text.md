@@ -6,12 +6,8 @@ Status: on developement
 Year: 2028
 ---
 
-# Make questions,
-# make mistakes,
-# make ideas.
-
+# Make questions, make mistakes, make ideas.
 The 42Roma makers club is where ideas escape the back of your mind and become actual things. It's a space to build what you're curious about, experiment with what you don't know, and team up with people who are just as excited about making things as you are.
-
 
 ## Who
 Maybe it's a weird machine that probably shouldn't exist, an open-source tool that could make someone's life easier or a game you've always wanted to create. Maybe it's something nobody has thought of yet.
