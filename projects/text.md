@@ -1,9 +1,9 @@
 ---
-Title: "Demystifying VoIP: SIP, RTP, and Server Architecture."
-Subtitle: "Master the core components behind modern IP phone systems."
-Author: Eugenio
+Title: "The Cardboard Cabinet Project (Baby Version)"
+Subtitle: "A compact arcade cabinet featuring handheld-style controls."
+Author: Eugenio Bonaccorso, Valerio Lucarelli, Ihor
 Status: on developement
-Year: 2028
+Year: 2026
 ---
 
 # Make questions, make mistakes, make ideas.
