@@ -1,15 +1,12 @@
 ---
-Title: "Demystifying VoIP: SIP, RTP, and Server Architecture."
+Title: "The Cardboard Cabinet Project (Full Version)"
 Subtitle: "Master the core components behind modern IP phone systems."
 Author: Eugenio Rossi
 Status: on developement
 Year: 2026
 ---
 
-# Make questions,
-# make mistakes,
-# make ideas.
-
+# The Cardboard Cabinet Project (Full Version)
 The 42Roma makers club is where ideas escape the back of your mind and become actual things. It's a space to build what you're curious about, experiment with what you don't know, and team up with people who are just as excited about making things as you are.
 
 
