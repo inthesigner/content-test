@@ -14,5 +14,13 @@
     "status": "on developement",
     "year": "2026",
     "file": "projects/The Cardboard Cabinet Project (Full Version)/text.md"
+  },
+  {
+    "title": "Demystifying VoIP: SIP, RTP, and Server Architecture.",
+    "subtitle": "Master the core components behind modern IP phone systems.",
+    "author": "Eugenio Rossi",
+    "status": "on developement",
+    "year": "2026",
+    "file": "projects/The Cardboard Cabinet Project (Junior Version)/text.md"
   }
 ]
