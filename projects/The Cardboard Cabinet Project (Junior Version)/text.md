@@ -1,6 +1,6 @@
 ---
 Title: "The Cardboard Cabinet Project (Junior Version)"
-Subtitle: "Master the core components behind modern IP phone systems."
+Subtitle: "A desktop arcade cabinet with single-player arcade controls."
 Author: Eugenio Rossi
 Status: on developement
 Year: 2026
