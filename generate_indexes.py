@@ -5,7 +5,7 @@ from pathlib import Path
 def generate_index(folder):
     items = []
 
-    for path in sorted(Path(folder).glob("*.md")):
+    for path in sorted(Path(folder).rglob("*.md")):
         content = path.read_text(encoding="utf-8")
         parts = content.split("---", 2)
 
@@ -27,7 +27,7 @@ def generate_index(folder):
             "author": metadata.get("author", ""),
             "status": metadata.get("status", ""),
             "year": metadata.get("year", ""),
-            "file": str(path)
+            "file": path.as_posix()
         })
 
     output = f"{folder}.json"
@@ -39,4 +39,3 @@ def generate_index(folder):
 
 for folder in ("talks", "projects"):
     generate_index(folder)
-  
