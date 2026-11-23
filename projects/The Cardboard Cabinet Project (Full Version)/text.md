@@ -1,5 +1,5 @@
 ---
-Title: "Demystifying VoIP: SIP, RTP, and Server Architecture."
+Title: "The Cardboard Cabinet Project (Full Version)"
 Subtitle: "Master the core components behind modern IP phone systems."
 Author: Eugenio Rossi
 Status: on developement
