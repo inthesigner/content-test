@@ -1,5 +1,5 @@
 ---
-Title: "The Cardboard Cabinet Project (Full Version)"
+Title: "The Cardboard Cabinet Project (Junior Version)"
 Subtitle: "Master the core components behind modern IP phone systems."
 Author: Eugenio Rossi
 Status: on developement
