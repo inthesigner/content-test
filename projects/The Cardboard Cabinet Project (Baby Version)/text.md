@@ -6,7 +6,7 @@ Status: on developement
 Year: 2026
 ---
 
-# Make questions, make mistakes, make ideas.
+# The Cardboard Cabinet Project (Baby Version)
 The 42Roma makers club is where ideas escape the back of your mind and become actual things. It's a space to build what you're curious about, experiment with what you don't know, and team up with people who are just as excited about making things as you are.
 
 ## Who
