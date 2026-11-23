@@ -7,27 +7,10 @@ Year: 2026
 ---
 
 # The Cardboard Cabinet Project (Baby Version)
-The 42Roma makers club is where ideas escape the back of your mind and become actual things. It's a space to build what you're curious about, experiment with what you don't know, and team up with people who are just as excited about making things as you are.
+The Medium Version takes a different approach by reusing an existing Samsung tablet as the central component of a cardboard arcade cabinet. Instead of relying on a dedicated handheld gaming device, the project gives a second life to hardware that might otherwise remain unused.
 
-## Who
-Maybe it's a weird machine that probably shouldn't exist, an open-source tool that could make someone's life easier or a game you've always wanted to create. Maybe it's something nobody has thought of yet.
+The tablet will be reset and reconfigured with a Linux-based environment, providing the computing platform for the arcade system. Its integrated display becomes the screen of the cabinet, while the physical controls are built separately and connected to the device to recreate the feeling of playing on a traditional arcade machine.
 
-At 42 Roma, we come from different backgrounds, bring different skills to the table, and see the world from different angles. Some of us love code, others are into electronics, design, mechanics, or art. The makers club is where all these worlds collide, where different perspectives, unexpected combinations, and a bit of - why not - chaos can take a good idea in directions none of us would have imagined alone.
+The cardboard structure is designed around the dimensions of the tablet, with particular attention to accessibility, stability and the integration of the control panel. The aim is to create a machine that is larger and more immersive than the Junior Version, while remaining relatively easy to build, transport and modify.
 
-## What
-There are no mandatory projects or predefined assignments here. Projects grow out of personal interests, shared passions, and the desire to explore something together. You choose what you want to make, find people who are excited about the same things, and figure out how to bring your ideas to life. Sometimes you join because you want to make a game and end up learning electronics. Sometimes you come to help someone with a prototype and leave with an idea for your next project. That's how things grow.
-
-## How
-
-The makers club isn't about having the best idea in the room, knowing everything before you start, or building the next big thing. It's about being curious enough to try, open enough to learn from others, and willing to turn an idea into something real. Not everything will work, and that's part of the process. What matters is experimenting, sharing what you learn, and helping each other move forward.
-
-So bring your skills, your curiosity, your half-finished ideas, and even the projects that sound a little ridiculous. Find your people, learn something new, make mistakes, build something cool, and share what you discover.
-```C
-int main() 
-{
-	if(x == 0)
-	{
-		sdfdsfd
-	}
-}
-```
+Beyond the final result, this version offers an opportunity to experiment with hardware repurposing, operating system installation and the integration of physical input devices. It demonstrates how an everyday consumer device can become the foundation of a completely different interactive experience.
