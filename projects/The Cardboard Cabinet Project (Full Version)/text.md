@@ -1,6 +1,6 @@
 ---
 Title: "The Cardboard Cabinet Project (Full Version)"
-Subtitle: "Master the core components behind modern IP phone systems."
+Subtitle: "A regular size arcade cabinet with double-player arcade controls."
 Author: Eugenio Rossi
 Status: on developement
 Year: 2026
