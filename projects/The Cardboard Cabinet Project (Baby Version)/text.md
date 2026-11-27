@@ -1,8 +1,11 @@
 ---
 Title: "The Cardboard Cabinet Project (Baby Version)"
 Subtitle: "A compact arcade cabinet featuring handheld-style controls."
-Author: Eugenio Bonaccorso, Valerio Lucarelli, Ihor
-Status: on developement
+Team:
+  - Eugenio Bonaccorso
+  - Valerio Lucarelli
+  - Daniele Ridolfo
+Status: In development
 Year: 2026
 ---
 
